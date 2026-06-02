@@ -3,7 +3,7 @@
 // ==========================================
 // CONFIGURATION
 // ==========================================
-$botToken = "8551642346:AAFsOxNIb_oyiXmI6H7H7VbbdE4I7qDdTZo"; // আপনার বটের টোকেন এখানে দিন
+$botToken = "8966086403:AAFIYinO8Yz_DNLf0TzZq-odFeN223GxnRo"; // আপনার বটের টোকেন এখানে দিন
 $website = "https://api.telegram.org/bot" . $botToken;
 
 // ==========================================
